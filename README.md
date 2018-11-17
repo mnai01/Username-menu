@@ -1,7 +1,7 @@
 # Username-menu
 Add, Print, Delete, Search for Usernames.
 
-To run select the directory which you have saved it in then type ./Menu
+To run select the directory which you have saved it in then type ./Menu.bash
 
 Add:
 asked for First/Last name then automatically generates a username(Flastname) If there are duplicate names it will add a number to differentiate them ex. Flastname1
